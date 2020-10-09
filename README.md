@@ -85,11 +85,19 @@ Little by little as time passes I'm understanding onshape and how to make certai
 
 ### Description
 
+4th onshape part of the caster with the help of Mr.Shields(https://youtu.be/ReEGioIYSus)
+
 ### Evidence
+
+[The tire in onshape](https://cvilleschools.onshape.com/documents/0ba28abcc7960253fe3c1cf6/w/8670f3d26f870ac119749fa2/e/533a885c5c0873b1a110c378)
 
 ### Image
 
+<img src="<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/Screenshot%202020-09-30%20at%208.36.08%20PM.png" alt="the tire" width="200">
+
 ### Reflection
+
+When doing the tire, it was a lot easier than I thought it would be, I'm proud of myself.
 
 ---
 
