@@ -92,8 +92,7 @@ Little by little as time passes I'm understanding onshape and how to make certai
 [The tire in onshape](https://cvilleschools.onshape.com/documents/0ba28abcc7960253fe3c1cf6/w/8670f3d26f870ac119749fa2/e/533a885c5c0873b1a110c378)
 
 ### Image
-
-<img src="<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/Screenshot%202020-09-30%20at%208.36.08%20PM.png" alt="the tire" width="200">
+<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/Screenshot%202020-09-30%20at%208.36.08%20PM.png" alt="the tire" width="200">
 
 ### Reflection
 
@@ -106,11 +105,19 @@ When doing the tire, it was a lot easier than I thought it would be, I'm proud o
 
 ### Description
 
+[5th onshape part of the caster] (https://youtu.be/RKeALFyqSGw)
+
 ### Evidence
 
+[The wheel in onshape](https://cvilleschools.onshape.com/documents/deff9a78f09133f183cdf873/w/f33f7cde6ac3436f0035ef76/e/3926cf1fb7f1f76ac969d182)
+
 ### Image
+<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/the%20wheel.png" alt="the wheel" width="200">
+
 
 ### Reflection
+
+It was a bit hard at first trying to make it match the one in the video but I was able to finally do it.
 
 ---
 
@@ -119,10 +126,20 @@ When doing the tire, it was a lot easier than I thought it would be, I'm proud o
 
 ### Description
 
+[Final part of the caster in onshape](https://youtu.be/2r7YqGuF1vY)
+
 ### Evidence
+
+[AxelCollarBearing in onshape](https://cvilleschools.onshape.com/documents/deff9a78f09133f183cdf873/w/f33f7cde6ac3436f0035ef76/e/3926cf1fb7f1f76ac969d182)(https://cvilleschools.onshape.com/documents/7f0a36479889f0177a8d5844/w/751b300a8d5b1255b45e2fa7/e/4cb9de8d2f5c9ac9f7f11495)
 
 ### Image
 
+<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/axle%20and%20collar.png" alt="axle and collar" width="200">
+
+<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/wheel%20and%20bearing.png" alt="wheel and bearing" width="200">
+
 ### Reflection
+
+It was confusing at first having to switch between documents but I was able to finish up the parts.
 
 ---
