@@ -143,3 +143,39 @@ It was a bit hard at first trying to make it match the one in the video but I wa
 It was confusing at first having to switch between documents but I was able to finish up the parts.
 
 ---
+
+## SubAssembly
+
+### Description
+
+[Sub assembly of the caster](https://youtu.be/R4PDBd8H5h8)
+
+### Evidence
+
+[Caster sub assembly](https://cvilleschools.onshape.com/documents/b0aa8681967a21cae6c46e44/w/d4e4e34c5c747d2e2c56c45e/e/11625bece5ceeeb783facb5a)
+
+### Image
+
+<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/sub%20assembly.png" alt="sub assembly" width="200">
+
+### Reflection
+
+The sub assembly was a lot easier than I thought it was going to be. I'm proud of it.
+
+## Final Caster
+
+### Description
+
+[Final assembly](https://youtu.be/orcp-asikM4)
+
+### Evidence
+
+[Final caster assembly](https://cvilleschools.onshape.com/documents/3af43c09d02890b8034e7950/w/2633fc61f6a4cdb40e470947/e/dd0ab5bc263ac2af17c6e511)
+
+### Image
+
+<img src="https://github.com/abrown2002/Basic_Onshape_CAD./blob/master/caster%20assembly.png" alt="final caster assembly" width="200">
+
+### Reflection
+
+This was the hardest thing to do but I'm really proud of how it turned out.
